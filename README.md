@@ -1,4 +1,4 @@
-# Aimulator+
+# Aimulator+ 🖱️
 
 A browser-based mouse sensitivity simulator for FPS games. Feel your real sensitivity before you queue up, and warm up your aim without launching the game.
 
@@ -61,6 +61,14 @@ Built with vanilla **HTML, CSS, and JavaScript** — no frameworks, no build ste
 ## How It Was Built
 
 Part hand-written code, part AI-assisted "vibe coding" with human design and decisions.
+
+## Donation
+
+Feel free to contribute to this project by leaving a donation at:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/aquamon)
+
+Thanks!
 
 ## License & Attribution
 
