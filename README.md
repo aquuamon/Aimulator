@@ -33,7 +33,7 @@ Aimulator+ is designed with a **local-first** philosophy. Here is exactly what t
 
 ## Live Demo
 
-Play it directly in your browser: [aquuamon.github.io/aimulator](https://aquuamon.github.io/aimulator/)
+Play it directly in your browser: [aquuamon.github.io/Aimulator](https://aquuamon.github.io/Aimulator/)
 
 No installation required — just open the page, enter your DPI, and click anywhere to lock your cursor.
 
